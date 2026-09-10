@@ -1,4 +1,4 @@
-# Practical 1: Install and configure TensorFlow/Keras in Google Colab. Perform data preprocessing, normalization, train-test splitting # and data visualization on a sample dataset.
+# Practical 1: Install and configure TensorFlow/Keras in Google Colab. Perform data preprocessing, normalization, train-test splitting and data visualization on a sample dataset.
 
 ## Aim
 
